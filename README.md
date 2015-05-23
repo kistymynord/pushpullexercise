@@ -11,3 +11,5 @@ test to conflict from vsomonaco
 test to push by cmd.
 
 test to pull by command.
+
+test to confrict from emacs
