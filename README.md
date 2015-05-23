@@ -1,5 +1,7 @@
 # pushpullexercise
 hogehoge
 
-markdownhogehoge~~~
+markdownhogehoge~~
 プッシュのテストを行います。
+
+プルのテストを行います。
