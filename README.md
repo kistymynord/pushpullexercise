@@ -7,3 +7,5 @@ markdownhogehoge~~
 プルのテストを行います。
 
 test to push by cmd.
+
+test to pull by command.
